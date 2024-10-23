@@ -29,9 +29,7 @@
   💌 Entre em contato comigo: ⤵️
 </p>
 
-<p align="left">
-  <a href="mailto:diogopalma@live.com" title="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoftoutlook&logoColor=white&link=LINK-DO-SEU-OUTLOOK" alt="Outlook"/></a>
+<p align="left"> 
   <a href="https://www.linkedin.com/in/diogo-palma-costa/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/556992505944" title="WhatsApp">
