@@ -9,19 +9,19 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VS Code, Git, GitHub, Postman, Docker, Figma**
+  💼 Ferramentas: <strong>VS Code, Git, GitHub, Postman, Docker, Figma<strong>
 </p>
 
 <p align="left">
-  ⚙️ Frameworks: **Vue.js, React, React Native, Laravel, Spring, .NET**
+  ⚙️ Frameworks: <strong>Vue.js, React, React Native, Laravel, Spring, .NET</strong>
 </p>
 
 <p align="left">
-  🗄️ Bancos de Dados: **MySQL, PostgreSQL, MongoDB**
+  🗄️ Bancos de Dados: <strong>MySQL, PostgreSQL, MongoDB</strong>
 </p>
 
 <p align="left">
-  💬 Mensageria: **RabbitMQ, Apache Kafka, Redis**
+  💬 Mensageria: <strong>RabbitMQ, Apache Kafka, Redis</strong>
 </p>
 
 <p align="left">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:diogbpalma@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/diogo-palma-costa/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
