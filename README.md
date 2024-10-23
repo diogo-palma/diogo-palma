@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>TypeScript, Java, PHP, Vue.js, Laravel, C#, Delphi</strong>
+  🦄 Linguagens: <strong>TypeScript, Java, PHP, Javascript, C#, Delphi</strong>
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🗄️ Bancos de Dados: <strong>MySQL, PostgreSQL, MongoDB</strong>
+  🗄️ Bancos de Dados: <strong>MySQL, PostgreSQL, MongoDB, MSSQL, SQLite</strong>
 </p>
 
 <p align="left">
