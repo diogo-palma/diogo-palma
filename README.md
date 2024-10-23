@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Git, GitHub, Postman, Docker, Figma<strong>
+  💼 Ferramentas: <strong>VS Code, Git, GitHub, Postman, Docker, Figma</strong>
 </p>
 
 <p align="left">
