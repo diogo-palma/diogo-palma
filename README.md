@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **TypeScript, Java, PHP, Vue.js, Laravel, C#, Delphi**
+  🦄 Linguagens: <strong>TypeScript, Java, PHP, Vue.js, Laravel, C#, Delphi</strong>
 </p>
 
 <p align="left">
