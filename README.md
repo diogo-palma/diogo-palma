@@ -22,6 +22,10 @@
 </p>
 
 <p align="left">
+  🧪 Testes: <strong>JUnit, PHPUnit, Jest, Cypress</strong>
+</p>
+
+<p align="left">
   💬 Mensageria: <strong>RabbitMQ, Apache Kafka, Redis</strong>
 </p>
 
